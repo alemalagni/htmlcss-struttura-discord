@@ -10,13 +10,15 @@
 .container{
     border: 1px dotted black;
     height: 500px;
-    margin-left: 360px;
-    margin-right: 360px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 #box-1{
     height: 400px;
     background-color: pink;
+    margin-left: 450px;
+    margin-right: 450px;
 }
 
 #box-2{
@@ -51,7 +53,7 @@
 
 #small > div{
     border: 1px dotted white;
-    width: 180px;
+    width: 150px;
 }
 
 /* section */
