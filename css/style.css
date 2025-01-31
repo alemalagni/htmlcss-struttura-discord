@@ -76,7 +76,8 @@ section{
     background-color: black;
 }
 
-#nav{
+.nav{
     background-color: gold;
     display: flex;
+    justify-content: center;
 }
