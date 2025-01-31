@@ -22,7 +22,17 @@
     background-color: green;
 }
 
+#due{
+    display: flex;
+}
 
+#big-box{
+    background-color: skyblue;
+}
+
+#small-box{
+    background-color: pink;
+}
 
 /* section */
 section{
