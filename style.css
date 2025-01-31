@@ -10,17 +10,22 @@ header{
     background-color: #ADD8E6;
     padding-top: 16px;
     padding-bottom: 15px;
-    padding-left: 360px;
 
     div{
-        background-color: #D99923;
-        display: inline-block;
+        
+        display: flex;
         height: 40px;
-        text-align: left;
-
+        justify-content: center;
+        align-items: center;
+        
         div{
+            background-color: #D99923;
             border: 1px dotted black;
-            
+            flex-basis: 238px;
         }
     }
+}
+
+.link{
+    flex-basis: 718px;
 }
