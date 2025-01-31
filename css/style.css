@@ -5,6 +5,27 @@
     box-sizing: border-box;
 }
 
-/* Header */
+/* container */
 
+/* section */
+
+/* utilities classes */
+.bg-azure{
+    background-color: azure;
+}
+.bg-white{
+    background-color: white;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-gray{
+    background-color: darkgray;
+}
+
+.bg-black{
+    background-color: black;
+}
 
