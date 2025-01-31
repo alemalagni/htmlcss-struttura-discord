@@ -36,6 +36,14 @@
     flex-basis: 500px;
 }
 
+#big{
+    background-color: red;
+}
+
+#small{
+    background-color: aquamarine;
+}
+
 /* section */
 section{
     padding-top: 15px;
