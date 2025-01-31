@@ -44,6 +44,9 @@
 #small{
     background-color: aquamarine;
     flex-basis: 578px;
+    div{
+        width: 208px;
+    }
 }
 
 /* section */
