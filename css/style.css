@@ -22,15 +22,7 @@
     background-color: green;
 }
 
-.big-box{
-    display: inline-block;
-    background-color: skyblue;
-}
 
-.small-box{
-    display: inline-block;
-    background-color: pink;
-}
 
 /* section */
 section{
