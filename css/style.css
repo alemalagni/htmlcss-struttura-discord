@@ -40,16 +40,18 @@
 
 #big{
     background-color: red;
-    flex-basis: 578px;
+    flex-basis: 358px;
 }
 
 #small{
+    display: flex;
     background-color: aquamarine;
-    flex-basis: 578px;
+    justify-content: flex-start;
 }
 
 #small > div{
-    width: 208px;
+    border: 1px dotted white;
+    width: 180px;
 }
 
 /* section */
