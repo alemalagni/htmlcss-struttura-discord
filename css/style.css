@@ -28,10 +28,12 @@
 
 #big-box{
     background-color: skyblue;
+    flex-basis: 500px;
 }
 
 #small-box{
     background-color: pink;
+    flex-basis: 500px;
 }
 
 /* section */
