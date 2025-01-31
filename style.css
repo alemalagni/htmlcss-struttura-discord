@@ -1,0 +1,26 @@
+/* Selettore universale */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Header */
+header{
+    background-color: #ADD8E6;
+    padding-top: 16px;
+    padding-bottom: 15px;
+    padding-left: 360px;
+
+    div{
+        background-color: #D99923;
+        display: inline-block;
+        height: 40px;
+        text-align: left;
+
+        div{
+            border: 1px dotted black;
+            
+        }
+    }
+}
