@@ -38,10 +38,12 @@
 
 #big{
     background-color: red;
+    flex-basis: 578px;
 }
 
 #small{
     background-color: aquamarine;
+    flex-basis: 578px;
 }
 
 /* section */
