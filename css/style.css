@@ -6,8 +6,15 @@
 }
 
 /* container */
+container{
+    width: 500px;
+}
 
 /* section */
+section{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
 
 /* utilities classes */
 .bg-azure{
