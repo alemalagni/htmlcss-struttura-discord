@@ -10,20 +10,20 @@
 .container{
     border: 1px dotted black;
     height: 500px;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 296px;
+    margin-right: 296px;
 }
 
 #box-1{
     height: 400px;
-    background-color: pink;
-    margin-left: 450px;
-    margin-right: 450px;
+    background-color: #F088F2;
+    margin-left: 441px;
+    margin-right: 441px;
 }
 
 #box-2{
     height: 900px;
-    background-color: green;
+    background-color: #228B22;
 }
 
 #due{
@@ -31,23 +31,23 @@
 }
 
 #big-box{
-    background-color: skyblue;
+    background-color: #1D8FF2;
     flex-basis: 718px;
 }
 
 #small-box{
-    background-color: pink;
+    background-color: #F2BBC9;
     flex-basis: 476px;
 }
 
 #big{
-    background-color: red;
+    background-color: #F08080;
     flex-basis: 358px;
 }
 
 #small{
     display: flex;
-    background-color: aquamarine;
+    background-color: #20B2AA;
     justify-content: flex-start;
 }
 
@@ -64,27 +64,27 @@ section{
 
 /* utilities classes */
 .bg-azure{
-    background-color: azure;
+    background-color: #ADD8E6;
 }
 .bg-white{
-    background-color: white;
+    background-color: #FFFFFF;
 }
 
 .bg-blue{
-    background-color: blue;
+    background-color: #030A8C;
 }
 
 .bg-gray{
-    background-color: darkgray;
+    background-color: #D3D3D3;
 }
 
 .bg-black{
-    background-color: black;
+    background-color: #23272A;
 }
 
 /* Nav */
 .nav{
-    background-color: gold;
+    background-color: #D99923;
     display: flex;
     justify-content: center;
     margin-left: 360px;
@@ -108,7 +108,7 @@ section{
 /* Footer Nav */
 
 .nav-2{
-    background-color: aqua;
+    background-color: #7FFFD4;
     display: flex;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -118,5 +118,6 @@ section{
 }
 
 .nav-2 > div{
+    border: 1px dotted black;
     background-color: pink;
 }
