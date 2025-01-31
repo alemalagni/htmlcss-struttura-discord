@@ -10,8 +10,8 @@ header{
     background-color: #ADD8E6;
     padding-top: 16px;
     padding-bottom: 15px;
-
-    div{
+    /* Prima sezione */
+    .primo{
         
         display: flex;
         height: 40px;
@@ -22,6 +22,18 @@ header{
             background-color: #D99923;
             border: 1px dotted black;
             flex-basis: 238px;
+        }
+    }
+
+    /* Seconda sezione*/
+    .secondo{
+        background-color: #030A8C;
+        padding-top: 50px;
+        div{
+            padding-bottom: 395px;
+            background-color: #F088F2;
+            border: 1px dotted black;
+            text-align: center;
         }
     }
 }
