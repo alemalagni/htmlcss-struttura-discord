@@ -76,3 +76,7 @@ section{
     background-color: black;
 }
 
+#nav{
+    background-color: gold;
+    display: flex;
+}
