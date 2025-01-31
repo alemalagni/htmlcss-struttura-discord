@@ -91,4 +91,9 @@ section{
 
 .nav > #link {
     flex-basis: 718px;
+    text-align: center;
+}
+
+.nav > #login {
+    text-align: right;
 }
