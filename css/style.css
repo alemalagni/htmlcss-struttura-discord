@@ -10,6 +10,16 @@
     height: 500px;
 }
 
+#box-1{
+    height: 400px;
+    background-color: pink;
+}
+
+#box-2{
+    height: 900px;
+    background-color: green;
+}
+
 /* section */
 section{
     padding-top: 15px;
