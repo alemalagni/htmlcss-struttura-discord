@@ -82,8 +82,13 @@ section{
     justify-content: center;
     margin-left: 360px;
     margin-right: 360px;
-    div{
-        border-color: 10px dotted black;
-        flex-basis: 238px;
-    }
+}
+
+.nav > div{
+    border: 1px dotted black;
+    flex-basis: 238px;
+}
+
+.nav > #link {
+    flex-basis: 718px;
 }
