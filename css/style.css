@@ -10,8 +10,8 @@
 .container{
     border: 1px dashed black;
     height: 500px;
-    margin-left: 296px;
-    margin-right: 296px;
+    width: 1200px;
+    margin: 0 auto;
 }
 
 .container.due{
@@ -104,8 +104,7 @@ section{
 #box-1{
     height: 400px;
     background-color: #F088F2;
-    margin-left: 441px;
-    margin-right: 441px;
+    width: 900px;
 }
 
 #box-2{
@@ -115,11 +114,11 @@ section{
 
 #big{
     background-color: #F08080;
-    flex-basis: 358px;
+    width: 358px;
 }
 
 #small{
     display: flex;
     background-color: #20B2AA;
-    justify-content: flex-start;
+    width: auto;
 }
