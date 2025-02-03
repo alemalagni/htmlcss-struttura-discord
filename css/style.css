@@ -10,7 +10,8 @@
 .container{
     border: 1px dashed black;
     height: 500px;
-    margin: 0 auto;
+    margin-left: 296px;
+    margin-right: 296px;
 }
 
 .container.due{
