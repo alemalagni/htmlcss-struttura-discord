@@ -30,12 +30,12 @@
     display: flex;
 }
 
-#big-box{
+.big-box{
     background-color: #1D8FF2;
     flex-basis: 718px;
 }
 
-#small-box{
+.small-box{
     background-color: #F2BBC9;
     flex-basis: 476px;
 }
